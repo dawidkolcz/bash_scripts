@@ -1,1 +1,1 @@
-ls -R as bash script done.
+Bash scripts
